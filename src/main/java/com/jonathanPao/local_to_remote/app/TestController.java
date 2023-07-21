@@ -10,6 +10,7 @@ public class TestController {
 	
 	@GetMapping("/test")
 	public String getInfo() {
+		String aa = "";
 		new Date();
 		return "";
 	}
