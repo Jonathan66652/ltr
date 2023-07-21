@@ -12,6 +12,7 @@ public class TestController {
 	public String getInfo() {
 		String aa = "";
 		new Date();
+		String.format("%s%s", "aa", "bb");
 		return "";
 	}
 }
